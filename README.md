@@ -1,51 +1,35 @@
 # AI / ML Projects Collection
 
-This repository contains 4 Python-based Artificial Intelligence and Machine Learning projects created using Google Colab.
-
----
-
 ## 1. Food Calorie Estimator
-Predicts calories based on selected food item and weight using Decision Tree Regression.
+An AI-based system that predicts calories based on food item and weight.
 
-### Technologies:
-- Python
-- Pandas
-- Scikit-learn
-- ipywidgets
+### Dataset
+Custom structured nutrition dataset created for demonstration.
 
 ---
 
 ## 2. Career Recommendation System
-Recommends careers based on top 3 interests and skill level using intelligent rule-based logic.
+Recommends careers based on interests and skill level.
 
-### Technologies:
-- Python
-- ipywidgets
+### Dataset
+Rule-based logic system (no external dataset used).
 
 ---
 
 ## 3. Movie Recommendation System
-Suggests similar movies using content-based filtering and cosine similarity with dataset support.
+Suggests similar movies using content-based filtering.
 
-### Technologies:
-- Python
-- Pandas
-- Scikit-learn
-- MovieLens Dataset
+### Dataset
+MovieLens Dataset  
+https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset
 
 ---
 
-## 4. F1 Predictor Pro
-Predicts Formula 1 race finishing positions using Random Forest Regression and historical race data.
+## 4. FORMULA1 Predictor
+Predicts Formula 1 finishing positions using machine learning.
 
-### Technologies:
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- F1 Dataset (1950–2024)
+### Dataset
+Formula 1 Historical Dataset (1950–2024)  
+https://www.kaggle.com/datasets/melissamonfared/formula-1
 
 ---
-
-## Author
-Sejal Verma
